@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shdxlin.github.io/static/css/main.c2c304ef.chunk.css",
+    "main.js": "/shdxlin.github.io/static/js/main.16953911.chunk.js",
+    "main.js.map": "/shdxlin.github.io/static/js/main.16953911.chunk.js.map",
+    "runtime-main.js": "/shdxlin.github.io/static/js/runtime-main.c243935c.js",
+    "runtime-main.js.map": "/shdxlin.github.io/static/js/runtime-main.c243935c.js.map",
+    "static/js/2.2878aa31.chunk.js": "/shdxlin.github.io/static/js/2.2878aa31.chunk.js",
+    "static/js/2.2878aa31.chunk.js.map": "/shdxlin.github.io/static/js/2.2878aa31.chunk.js.map",
+    "static/js/3.c9c6b280.chunk.js": "/shdxlin.github.io/static/js/3.c9c6b280.chunk.js",
+    "static/js/3.c9c6b280.chunk.js.map": "/shdxlin.github.io/static/js/3.c9c6b280.chunk.js.map",
+    "index.html": "/shdxlin.github.io/index.html",
+    "static/css/main.c2c304ef.chunk.css.map": "/shdxlin.github.io/static/css/main.c2c304ef.chunk.css.map",
+    "static/js/2.2878aa31.chunk.js.LICENSE.txt": "/shdxlin.github.io/static/js/2.2878aa31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c243935c.js",
+    "static/js/2.2878aa31.chunk.js",
+    "static/css/main.c2c304ef.chunk.css",
+    "static/js/main.16953911.chunk.js"
+  ]
+}
